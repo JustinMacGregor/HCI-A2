@@ -1,15 +1,15 @@
 # HCI-A2 - Covid Tracker Application Prototype
 A prototype for an application created in Figma in which a person in Ontario can check cases for COVID-19 near their current location, in their province, and Canada.
-
-Figma Link: https://www.figma.com/file/jbhEx2A5yYW40x6GiBqrLe/Covid-Tracker-Application-2?node-id=0%3A1
+<br/>
+Figma Link: https://www.figma.com/file/jbhEx2A5yYW40x6GiBqrLe/Covid-Tracker-Application-2?node-id=0%3A1 <br/>
 YouTube Link:
- 
+<br/>
 New Features:
--Sign in with Facebook
--Volunteer category
--Report Users to reduce trolling
--Mute chats
--Set Specific Location within Ontario
+-Sign in with Facebook<br/>
+-Volunteer category<br/>
+-Report Users to reduce trolling<br/>
+-Mute chats<br/>
+-Set Specific Location within Ontario<br/>
 
 Sign In Page<br/>
 ![Alt text](../main/1.png?raw=true)
