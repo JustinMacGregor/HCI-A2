@@ -3,7 +3,7 @@ A prototype for an application created in Figma in which a person in Ontario can
 <br/>
 <br/>
 Figma Link: https://www.figma.com/file/jbhEx2A5yYW40x6GiBqrLe/Covid-Tracker-Application-2?node-id=0%3A1 <br/>
-YouTube Link:
+YouTube Link: https://youtu.be/svbdYe8tHeI
 <br/>
 <br/>
 New Features:<br/>
